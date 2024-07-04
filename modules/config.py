@@ -1,6 +1,6 @@
 CONFIG = {
-    'data_path': 'D:\AI - SUN ASTERISK\open_intern_AI\Projects\image_retrieval',
-    'model_path': './Image-Retrieval-PoC/models',
+    'data_path': 'D:/AI - SUN ASTERISK/open_intern_AI/Projects/image_retrieval/Image-Retrieval-PoC',
+    'model_path': './models',
     'host': '192.168.19.37',
     'port': 8700,
     'num_classes': 196,  
