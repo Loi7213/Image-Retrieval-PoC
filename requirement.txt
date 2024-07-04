@@ -1,2 +1,6 @@
+numpy
 tensorflow
-ResNet50
+Pillow
+scikit-learn
+streamlit
+joblib
